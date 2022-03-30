@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/andyhoprofile/static/css/main.935080d5.css",
+    "main.js": "/andyhoprofile/static/js/main.f01d77df.js",
+    "index.html": "/andyhoprofile/index.html",
+    "main.935080d5.css.map": "/andyhoprofile/static/css/main.935080d5.css.map",
+    "main.f01d77df.js.map": "/andyhoprofile/static/js/main.f01d77df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.935080d5.css",
+    "static/js/main.f01d77df.js"
+  ]
+}
