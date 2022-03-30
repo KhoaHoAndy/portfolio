@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/andyportfolio.github.io/static/css/main.935080d5.css",
-    "main.js": "/andyportfolio.github.io/static/js/main.b76a19e7.js",
-    "index.html": "/andyportfolio.github.io/index.html",
-    "main.935080d5.css.map": "/andyportfolio.github.io/static/css/main.935080d5.css.map",
-    "main.b76a19e7.js.map": "/andyportfolio.github.io/static/js/main.b76a19e7.js.map"
+    "main.css": "/AndyHo/static/css/main.935080d5.css",
+    "main.js": "/AndyHo/static/js/main.b76a19e7.js",
+    "index.html": "/AndyHo/index.html",
+    "main.935080d5.css.map": "/AndyHo/static/css/main.935080d5.css.map",
+    "main.b76a19e7.js.map": "/AndyHo/static/js/main.b76a19e7.js.map"
   },
   "entrypoints": [
     "static/css/main.935080d5.css",
